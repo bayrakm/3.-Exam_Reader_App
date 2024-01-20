@@ -2,8 +2,8 @@ import streamlit as st
 import openai
 import json
 
-openai.api_key  = st.secrets["openai_api_key"]
-client = openai.OpenAI()
+api_key  = st.secrets["openai_api_key"]
+client = openai.OpenAI(api_key=api_key)
 
 def chat_bot(messages, model="gpt-4-1106-preview", temp=0):
     """ to chat with LLM model"""
