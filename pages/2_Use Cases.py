@@ -196,7 +196,7 @@ def create_resonse(curriculum, subject, question_type, year, topic, difficulty, 
 
 st.title('What to do with it?')
 
-tabs = ["Create Question", "Open Ended", "Multiple Choice", "Exam Reader"]
+tabs = ["Create Question", "Open Ended Questions", "MC Questions", "Exam Reader"]
 # tabs = ["Create Question", "Open Ended", "Multiple Choice"]
 whitespace = 19
 tab1, tab2, tab3, tab4 = st.tabs([s.center(whitespace, "\u2001") for s in tabs])
