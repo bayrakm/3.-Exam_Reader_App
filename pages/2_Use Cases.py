@@ -508,10 +508,7 @@ with tab3: # Evaluating Multiple choice questions
                 st.write("As you've witnessed in our demo, our application goes beyond simply tallying correct answers—it provides rich, detailed feedback on multiple choice questions. This feature is a game-changer for both students and educators, offering insights that foster understanding and retention. Imagine the ease with which students can identify areas for improvement and the efficiency educators gain in guiding their pupils towards academic excellence. Our feedback system is not just a tool; it's a bridge to deeper learning and more effective teaching.")              
 
 with tab4: # Evaluating an Exam
-    text = f""" 
-    * description of the page - introduce the test and content - bubble answer sheet image - answer key
-    * provide mc test and answer keys to be evaluated.
-    * provide results in topics, diff level, bloom class 
+    text = f""" The AI Tutor can understand a complex test output and generate comprehensive feedback for test takers about the results. Let's take a look at the test and potential of the AI Tutor from this perspective.
 
 """
     st.write(text)
