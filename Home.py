@@ -95,7 +95,7 @@ Meet the Private Tutor, a sophisticated component of our educational ecosystem t
 
     col1,col2,col3 = st.columns([1,30,1])
 
-    col2.image("./images/Tutor.jpg", caption="A private tutor all the time at your fingertips.")    
+    col2.image("./images/tutor.jpg", caption="A private tutor all the time at your fingertips.")    
 
     col1,col2,col3 = st.columns([1,19,1])
     text = """
