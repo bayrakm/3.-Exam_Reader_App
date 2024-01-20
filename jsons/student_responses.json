@@ -1,0 +1,40 @@
+{"Math": {"Question": "Consider the function $f(x) = ax^2 + bx + c$, where $a$, $b$, and $c$ are constants. The graph of $f(x)$ passes through the points $(1, 6)$, $(2, 11)$, and $(3, 18)$. Analyze the given points and the form of the function to determine the values of $a$, $b$, and $c$. Show all your steps and justify your reasoning.", 
+          "Answer": "To find the values of $a$, $b$, and $c$, we can set up a system of equations using the given points by substituting them into the function $f(x)$. \n\nFor $(1, 6)$: $6 = a(1)^2 + b(1) + c$ \nFor $(2, 11)$: $11 = a(2)^2 + b(2) + c$ \nFor $(3, 18)$: $18 = a(3)^2 + b(3) + c$ \n\nSolving this system of equations will give us the values of $a$, $b$, and $c$. \n\nGrading rubric: \n- Setting up the system of equations correctly (2 points) \n- Correctly using algebraic methods to solve for $a$, $b$, and $c$ (3 points) \n- Justifying each step of the solution (2 points) \n- Arriving at the correct solution for $a$, $b$, $c$ (3 points)", 
+          "Student Response": "For (6,1) $F(1) = a1^2 + b1 +c = 6 \\implies a + b + c = 6$ \n For (2,11) $F(2) = a2^2 + b2 + c = 11 \\implies 4a + 2b + c = 11$ \n For (3,18) $F(3) = a3^2 + b3 + c = 18 \\implies 9a + 3b + c = 18$ \n When these three equations are solved \n a=1 , b=2 , c=3 so \n $F(x)=x^2 + 2x + 3$"
+        }, 
+"English": {"Question": "Write a story as an example of fiction style.", 
+             "Answer": "", 
+             "Student Response": "Once upon time, there was a boy. He name was Tom. Tom was very like to play football. He play football everyday. He was very happy when he play football. He feel like he was free. He feel like he can do anything. \n One day, he meet a girl. She name was Lucy. Lucy was like to play football too. She was very good at it. She can kick the ball very far. She can run very fast. She was very strong. Tom was very impress with her. \n Tom and Lucy become good friend. They play football together everyday. They practice together. They learn from each other. They help each other to become better. They was very happy. They enjoy every moment they spend together. \n But one day, Lucy have to move to another city. She have to say goodbye to Tom. Tom was very sad. He don\u2019t want to say goodbye. But he know that he have to. He know that he have to let her go. \n Lucy move to another city. Tom was very sad. He miss Lucy very much. He miss playing football with her. He miss her smile. He miss her laugh. But he know that he have to move on. He know that he have to be strong. \n Tom continue to play football. He play football everyday. He practice hard. He become better and better. He never forget Lucy. He always remember her. He always remember the time they spend together. He always remember the happiness they share. \n This is their story. This is the story of Tom and Lucy. This is the story of their friendship. This is the story of their love for football. This is the story of their happiness. This is the story of their sadness. This is the story of their life."
+        },
+"MCQ": {"Question": "A car of mass 1200 kg accelerates at 3 m/s^2 when a force is applied. If the same force is applied to a truck of mass 2400 kg, what will be the acceleration of the truck? \n A: 1.5 m/s^2, \n B: 3 m/s^2, \n C: 6 m/s^2, \n D: 12 m/s^2.",
+        "Answer": "A",
+        "Student Response":"C"
+        },
+"Test":{"Student": {"Student_id": 1012, "Student_name": "Tommy Wright", "Subject": "Math", "Group": "Year_07", "Class": "C", "Exam": "Exam_1"
+                   },
+        
+        "Overall_Score": {"num_qs": 50, "correct_%": 68.0, "incorrect_%": 30.0, "empty_%": 2.0 
+                         },
+
+        "Bloom_class": {"Remembering": { "num_qs": 7, "correct_%": 71.43,  "incorrect_%": 28.57,"empty_%": 0.0}, 
+                        "Understanding": {"num_qs": 14,"correct_%": 42.86, "incorrect_%": 57.14,"empty_%": 0.0}, 
+                        "Applying": {"num_qs": 8, "correct_%": 87.5, "incorrect_%": 12.5, "empty_%": 0.0}, 
+                        "Analyzing":{"num_qs": 12, "correct_%": 83.33, "incorrect_%": 16.67, "empty_%": 0.0},
+                        "Evaluating":{"num_qs": 5, "correct_%": 40.0, "incorrect_%": 40.0, "empty_%": 20.0 },
+                        "Creating": {"num_qs": 4, "correct_%": 100.0, "incorrect_%": 0.0, "empty_%": 0.0}
+                        },
+
+        "Diff_level":{"1": {"num_qs": 13, "correct_%": 69.23, "incorrect_%": 30.77, "empty_%": 0.0},
+                      "2": {"num_qs": 7, "correct_%": 71.43, "incorrect_%": 28.57, "empty_%": 0.0},
+                      "3": {"num_qs": 7, "correct_%": 57.14, "incorrect_%": 42.86, "empty_%": 0.0},
+                      "4": {"num_qs": 12, "correct_%": 66.67, "incorrect_%": 33.33, "empty_%": 0.0},
+                      "5": {"num_qs": 11, "correct_%": 72.73, "incorrect_%": 18.18, "empty_%": 9.09}
+                     },
+        "Topics": {"Algebra": {"num_qs": 15, "correct_%": 46.67, "incorrect_%": 46.67, "empty_%": 6.67},
+                   "Geometry": {"num_qs": 9, "correct_%": 88.89, "incorrect_%": 11.11, "empty_%": 0.0},
+                   "Number": {"num_qs": 13, "correct_%": 76.92, "incorrect_%": 23.08, "empty_%": 0.0},
+                   "Statistics": {"num_qs": 13, "correct_%": 69.23, "incorrect_%": 30.77, "empty_%": 0.0}
+                 }
+                        
+       }
+}
